@@ -1,7 +1,7 @@
 # sta108-r-projects
 Displaying two R projects completed for my Regression Analysis (STA108) course at UC Davis.
 
-### **Report I** 
+### **Project I** 
 Includes 6 parts (Introduction, Summarizing Data, Diagnostics, Analysis, Interpretation, Prediction Results, and Conclusion).
 
 The **hospital.csv** data was collected as part of the SENIC project, and the overall goal of the project is to build a model to predict a patient’s risk of infection based on how many days they are in the hospital.
@@ -10,7 +10,7 @@ Column 1, Days, describes the number of days a patient has been in the hospital.
 
 Column 2, Infect, is the estimated probability of an infection for the patient.
 
-### **Report II** 
+### **Project II** 
 
 Includes model creation for predictions, confidence intervals, simulatenous confidence intervals using Bonferroni and Scheffe’s multiplier, as well as hypothesis test to 
 find the "best" model.
